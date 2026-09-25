@@ -98,11 +98,27 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<!-- GitHub Action: https://github.com/Platane/snk -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Suraj-49/Suraj-49/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<img src="https://raw.githubusercontent.com/Suraj-49/Suraj-49/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Suraj-49/Suraj-49/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Suraj-49/Suraj-49/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
 
 </div>
 
