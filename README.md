@@ -39,11 +39,13 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 > *"Learn. Build. Improve. Repeat."* 🌸
 
-</td>
+<td width="35%" align="center" valign="middle">
 
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/Suraj-49/Suraj-49/main/img.png" width="240" alt="Suraj Mali"/>
+<img 
+  src="https://raw.githubusercontent.com/Suraj-49/Suraj-49/main/img.png"
+  width="300"
+  alt="Suraj Mali"
+/>
 
 </td>
 </tr>
