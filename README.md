@@ -43,7 +43,7 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 <td width="35%" align="center">
 
-<img src="C:\Users\admin\Desktop/images.jfif" width="240" alt="Suraj Mali"/>
+<img src="[C:\Users\admin\Desktop/images.jfif](https://www.google.com/imgres?q=coder%20animated%20images&imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1674742293510%2Fb726a047-e9f9-45a4-97e0-365dbadb318c.jpeg&imgrefurl=https%3A%2F%2Fanzal.hashnode.dev%2Fwhat-you-need-to-know-about-programming&docid=7myXByohW-oJoM&tbnid=eQI_McJ_0YhUxM&vet=12ahUKEwihsfi7tomXAxXLUGwGHSHcLssQnPAOegUIwQQQAA..i&w=517&h=360&hcb=2&ved=2ahUKEwihsfi7tomXAxXLUGwGHSHcLssQnPAOegUIwQQQAA)" width="240" alt="Suraj Mali"/>
 
 </td>
 </tr>
