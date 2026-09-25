@@ -97,9 +97,6 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 
 ## 🐍 Contribution Snake
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
