@@ -110,8 +110,6 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 </div>
 
-> **GitHub Action:** Generate the contribution snake automatically using the `Platane/snk` GitHub Action and publish the generated SVG to the `output` branch.
-
 ---
 
 ## 🚀 Featured Projects
