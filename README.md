@@ -81,9 +81,17 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suraj-49&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117" height="180" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Suraj-49&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical"
+  height="180"
+  alt="Suraj's GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-49&layout=compact&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117" height="180" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-49&layout=compact&hide_border=true&theme=radical"
+  height="180"
+  alt="Suraj's Top Languages"
+/>
 
 </div>
 
@@ -91,7 +99,11 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Suraj-49&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=EF93C4&sideNums=EF93C4&dates=F8BBD0" width="70%" />
+<img 
+  src="https://streak-stats.demolab.com?user=Suraj-49&theme=radical&hide_border=true"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
