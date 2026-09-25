@@ -1,7 +1,8 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="![Uploading header-dark.png…]()
 ">
-   <img alt="Logo for Suraj 49" src="art/header-light.png">
+   <img alt="Logo for Suraj 49" src="![Uploading header-dark.png…]()
+">
 </picture>
 
 
