@@ -1,6 +1,5 @@
 <img width="1660" height="380" alt="header-dark" src="https://github.com/user-attachments/assets/33d799ed-634d-4330-a60a-767cf7f20a98" /><picture>
    <source media="(prefers-color-scheme: dark)" srcset="C:\Users\admin\Desktop/header-dark.png">
-   <img alt="Logo for Suraj 49" C:\Users\admin\Desktop/header-dark.png">
 </picture>
 
 
