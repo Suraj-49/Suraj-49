@@ -43,7 +43,7 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 <td width="35%" align="center">
 
-<img src="C:\Users\admin\Desktop/img.png" width="240" alt="Suraj Mali"/>
+<img src="C:\Users\admin\Desktop\img.png" width="240" alt="Suraj Mali"/>
 
 </td>
 </tr>
