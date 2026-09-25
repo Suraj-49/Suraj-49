@@ -95,15 +95,6 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 ---
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-49&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
