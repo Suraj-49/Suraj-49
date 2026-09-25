@@ -81,20 +81,6 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Suraj-49&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical"
-  height="180"
-  alt="Suraj's GitHub Statistics"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-49&layout=compact&hide_border=true&theme=radical"
-  height="180"
-  alt="Suraj's Top Languages"
-/>
-
-</div>
-
 <br/>
 
 <div align="center">
