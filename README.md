@@ -1,8 +1,10 @@
 <div align="center">
 
 # Hey there, I'm Suraj Mali 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analytics+Enthusiast;BBA+(CA)+Student;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Suraj 49" src="art/header-light.png">
+</picture>
 
 <br/>
 
