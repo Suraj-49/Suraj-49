@@ -1,10 +1,8 @@
 <div align="center">
 
 # Hey there, I'm Suraj Mali 👋
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Suraj 49" src="art/header-light.png">
-</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analytics+Enthusiast;BBA+(CA)+Student;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 
 <br/>
 
@@ -111,6 +109,8 @@ Currently, I'm focused on strengthening my development and analytics skills whil
 <img src="https://raw.githubusercontent.com/Suraj-49/Suraj-49/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
+> **GitHub Action:** Generate the contribution snake automatically using the `Platane/snk` GitHub Action and publish the generated SVG to the `output` branch.
 
 ---
 
